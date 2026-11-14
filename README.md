@@ -4,7 +4,7 @@
 
 Aplicación web para entender una sesión de Fórmula 1 con datos reales de [OpenF1](https://openf1.org). Eliges un año (desde 2023), un Gran Premio y una sesión, y la app responde tres preguntas con el mapa del circuito, la estrategia de gomas y la comparación de dos vueltas. En español e inglés.
 
-**[Abrir la web](https://f1-analytics-eta.vercel.app)** · [Estado del servicio](https://f1-analytics-eta.vercel.app/es/estado) · [API](https://f1-analytics-api-a6xc.onrender.com/docs)
+**[Abrir la web](https://sectorone-eta.vercel.app)** · [Estado del servicio](https://sectorone-eta.vercel.app/es/estado) · [API](https://f1-analytics-api-a6xc.onrender.com/docs)
 
 > La API gratuita se duerme tras 15 minutos sin tráfico: la primera visita puede tardar hasta un minuto en responder. Después va rápido.
 

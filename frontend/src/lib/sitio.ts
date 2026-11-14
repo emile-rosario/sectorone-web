@@ -1,5 +1,5 @@
 /** La web en producción; se usa si Vercel no dice cuál es la dirección del despliegue. */
-export const URL_PRODUCCION = "https://f1-analytics-eta.vercel.app";
+export const URL_PRODUCCION = "https://sectorone-eta.vercel.app";
 
 /**
  * La dirección pública de la web, para las etiquetas que piden una URL completa (`og:image`).

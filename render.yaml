@@ -11,7 +11,7 @@ services:
     envVars:
       - key: PORT
         value: "8000"
-      # Dominio de producción de Vercel, por ejemplo https://f1-analytics.vercel.app
+      # Dominio de producción de Vercel, por ejemplo https://sectorone-eta.vercel.app
       - key: ORIGENES_PERMITIDOS
         sync: false
       # Regex de las URLs de preview de Vercel (cambian en cada PR)
