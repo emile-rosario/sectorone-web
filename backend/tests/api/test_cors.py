@@ -2,7 +2,7 @@ from fastapi.testclient import TestClient
 
 from f1analytics.api.main import crear_app
 
-PRODUCCION = "https://f1-analytics.vercel.app"
+PRODUCCION = "https://sectorone-eta.vercel.app"
 REGEX_PREVIEW = r"https://f1-analytics-[a-z0-9]+-emile\.vercel\.app"
 
 
